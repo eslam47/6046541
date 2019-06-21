@@ -1,0 +1,6 @@
+owner=591469850958888961
+prefix=Quran
+game=Streaming | Quranhelp
+stayinchannel=true
+songinstatus=false
+token=NTkxNDY5ODUwOTU4ODg4OTYx.XQxPjA.ukj_mvRPmLlieRV63otrwqQgnVM
